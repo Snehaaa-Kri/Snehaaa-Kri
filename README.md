@@ -73,6 +73,13 @@
 <p><a href="https://ko-fi.com/https://cdn.ko-fi.com/cdn/kofi3.png?v=3"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" /></a></p>
 <br><br>
 
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snehaaa-kri&theme=flat&no-bg=true&no-frame=true&margin-w=10&margin-h=15" alt="GitHub Trophy" />
+</p>
+
+
+
 ### GitHub Stats
 
 <p align="center">
@@ -86,7 +93,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehaaa-kri&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages Used" width="450" />
 </p>
-
 
 
 <!---
